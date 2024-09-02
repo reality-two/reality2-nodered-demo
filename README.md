@@ -1,3 +1,10 @@
-# Node Red Demo
+# A node-RED Example
 
-Check out the Node-Red documentation at reality-documentation.
+The Javascript / Typescript example is used to create a default WebApp for each Sentant, and for the Reality2 Node as a whole.
+
+### Table of Contents
+
+[Main Menu](../README.md)
+
+1. [Example](./Example.md)
+
